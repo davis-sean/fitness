@@ -36,7 +36,6 @@
 ## **📝 Exercise Glossary (With Movement Descriptions)**
 
 ### **Lower Body Exercises**
-
 #### **Hip Thrust Machine**
 - Sit against the back pad, place resistance pad across hips.
 - Drive through heels to push hips upward until torso is parallel to the ground.
@@ -52,30 +51,6 @@
 - Lower into a deep squat, keeping chest up and knees tracking over toes.
 - Drive through heels to return to standing.
 
-#### **Step-Ups**
-- Step onto a bench while holding dumbbells, driving through the lead foot.
-- Bring the opposite knee up for stability, then step back down with control.
-
-#### **Seated Calf Raises**
-- Sit with a weight plate or dumbbells on your knees.
-- Raise your heels by contracting your calves, then lower them back down slowly.
-
----
-
-### **Core & Functional Training**
-
-#### **Plank Hold**
-- Start in a forearm plank position, keeping your body straight from head to heels.
-- Hold this position while engaging your core and glutes.
-
-#### **Russian Twists**
-- Sit on the floor with knees bent, holding a kettlebell or dumbbell.
-- Rotate your torso side to side while keeping your core engaged.
-
-#### **Cable Woodchoppers**
-- Stand at a cable machine, holding the handle with both hands.
-- Rotate from one side to the other, engaging your obliques.
-
 ---
 
 ## **📆 Workout Plan with Aesthetic-Focused Muscle Toning**
@@ -87,9 +62,6 @@
 - **Cable Glute Kickbacks** – 3×15 reps per leg @ 25-35 lbs
 - **Dumbbell Bulgarian Split Squats** – 3×12 reps per leg @ 25 lbs per hand
 - **Kettlebell Sumo Deadlifts** – 3×12 reps @ 15 lbs
-- **Seated Calf Raises** – 3×18 reps @ 30-45 lbs
-
----
 
 ### **Tuesday: Core & Waist Definition + Cardio**
 - **Warm-Up:** Rowing Machine – 5 min (Moderate Pace)
@@ -101,24 +73,37 @@
   - Side Plank Hip Dips – 3×12 per side
   - Incline Walk (Treadmill) – 15 min @ 12% incline
 
----
-
 ### **Wednesday: Upper Body Toning & Fat Burn**
 - **Warm-Up:** Rowing Machine – 5 min (Low Intensity)
-- **Foam Rolling (Shoulders, Upper Back)** – 2 min
 - **Dumbbell Shoulder Press** – 3×12 reps @ 25 lbs per hand
 - **Cable Lat Pulldown** – 3×10 reps @ 90-110 lbs
 - **Dumbbell Lateral Raises** – 3×15 reps @ 15 lbs
 
----
-
 ### **Thursday: Lower Body Sculpting + Glute Focus**
 - **Warm-Up:** Foam Rolling (Glutes, Hamstrings) – 2 min
-- **Glute & Leg Strengthening**
-  - Hip Thrust Machine – 4×12 reps @ 160-200 lbs
-  - Step-Ups (Holding Dumbbell) – 3×12 reps per leg @ 25 lbs per hand
-  - Cable Side Kicks – 3×15 reps per leg @ 20-30 lbs
-  - Dumbbell Sumo Squats – 3×12 reps @ 25 lbs
+- **Hip Thrust Machine** – 4×12 reps @ 160-200 lbs
+- **Step-Ups (Holding Dumbbell)** – 3×12 reps per leg @ 25 lbs per hand
+- **Cable Side Kicks** – 3×15 reps per leg @ 20-30 lbs
+- **Dumbbell Sumo Squats** – 3×12 reps @ 25 lbs
+
+### **Friday: Functional Training & Waist Slimming**
+- **Circuit Training (3 Rounds, 30 sec each)**
+  - Kettlebell Swings @ 15 lbs
+  - Bodyweight Squats
+  - Push-Ups
+  - Plank-to-Pushup Transitions
+  - Hanging Knee Raises – 3×12 reps
+
+### **Saturday: Active Recovery + Mobility**
+- **Stretching Routine:** 15 min
+- **Foam Rolling:** Full Body – 10 min
+- **Yoga Flow:** 20 min
+- **Light Cardio:** Brisk Walk – 20 min
+
+### **Sunday: Rest & Recovery**
+- **Gentle Stretching & Mobility Work**
+- **Foam Rolling & Massage**
+- **Optional Light Walking**
 
 ---
 
